@@ -13,4 +13,5 @@ The main content of this link is the 3D version of the Central Library. Built on
 # Documentation
 Links to related documents: https://docs.google.com/document/d/1FSg-9Q25aJCGwzAp-SlSh-2jlA-XGEBhXoaDxE8gcAc/edit#
 Describes the research related to the project as well as the problem space, target users etc.
-![image](https://user-images.githubusercontent.com/61923883/137610439-6f2ef773-6f41-4d93-9371-95ca5edc42ad.png)
+
+
