@@ -6,7 +6,7 @@
 - The prototype is built on figma and the play function of figma enables you to see the effect of navigating between functional pages.
 - The main features of this version are the project's homepage, the 2D version of the library, the movie feature, the mini-game feature and the community communication feature.
 ***
-- [Link to the 3D prototype]()
+- [Link to the 3D prototype](https://youtu.be/NvMJNQ1_meI)
 - The main content of this link is the 3D version of the Central Library. Built on unity, the entire model is shown in video form to show how it looks and how it is explored from the ground floor to the first floor in an active view.
 
 # Documentation
