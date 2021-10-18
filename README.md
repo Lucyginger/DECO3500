@@ -10,7 +10,7 @@
 - The main content of this link is the 3D version of the Central Library. Built on unity, the entire model is shown in video form to show how it looks and how it is explored from the ground floor to the first floor in an active view.
 
 # Documentation
-- [Links to related documents](https://docs.google.com/document/d/1FSg-9Q25aJCGwzAp-SlSh-2jlA-XGEBhXoaDxE8gcAc/edit#)
+- [Links to related documents](https://docs.google.com/document/d/17w425bL981CosrNLlzwPIpkEz3esKjTVeqQUpJO8pmE/edit)
 - Describes the research related to the project as well as the problem space, target users etc.
 
 ***
