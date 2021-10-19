@@ -14,8 +14,9 @@
 - Describes the research related to the project as well as the problem space, target users etc.
 
 ***
-```
-
-
+# Issues Workflow
+- By clicking on an issue in the repository you can see the overall division of labour in the group and the progress of the project in terms of flow.
+- The project is divided into several sections, such as proposal, prototype, presentation, etc. Each team member is labelled with a different colour, representing the main person responsible for that section.
+- For multi-person collaborative projects, click on the details to find out about the project process and the division of responsibilities.
     
-```
+
